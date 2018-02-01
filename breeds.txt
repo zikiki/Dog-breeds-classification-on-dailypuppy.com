@@ -1,0 +1,201 @@
+[                breed      prob
+45     french_bulldog  0.878313
+88                pug  0.088848
+19        boston_bull  0.023101
+25       bull_mastiff  0.004757
+22  brabancon_griffon  0.000907,              breed      prob
+117        whippet  0.995225
+111    toy_terrier  0.000922
+113   walker_hound  0.000828
+92   saint_bernard  0.000688
+27        cardigan  0.000225,                 breed      prob
+100          shih-tzu  0.957879
+73        maltese_dog  0.028901
+70              lhasa  0.009681
+76   miniature_poodle  0.001487
+110        toy_poodle  0.000915,                  breed      prob
+29           chihuahua  0.885460
+60   italian_greyhound  0.041815
+32      cocker_spaniel  0.018727
+67  labrador_retriever  0.013290
+9               beagle  0.005120,                  breed      prob
+84            papillon  0.995122
+86            pembroke  0.001789
+87          pomeranian  0.001566
+99   shetland_sheepdog  0.000700
+119  yorkshire_terrier  0.000167,                            breed      prob
+67            labrador_retriever  0.762889
+44         flat-coated_retriever  0.235054
+104    staffordshire_bullterrier  0.000461
+47   german_short-haired_pointer  0.000436
+32                cocker_spaniel  0.000234,                       breed      prob
+29                chihuahua  0.239367
+32           cocker_spaniel  0.136202
+115  welsh_springer_spaniel  0.091053
+16            border_collie  0.082368
+27                 cardigan  0.074556,                          breed      prob
+11        bernese_mountain_dog  0.998334
+13            blenheim_spaniel  0.000988
+5                  appenzeller  0.000353
+32              cocker_spaniel  0.000075
+53  greater_swiss_mountain_dog  0.000057,                   breed      prob
+49     golden_retriever  0.578243
+67   labrador_retriever  0.161899
+63               kelpie  0.108793
+90  rhodesian_ridgeback  0.051518
+89              redbone  0.028348,               breed      prob
+45   french_bulldog  0.990817
+19      boston_bull  0.007124
+111     toy_terrier  0.001307
+27         cardigan  0.000173
+88              pug  0.000114,                  breed      prob
+29           chihuahua  0.835462
+67  labrador_retriever  0.133792
+32      cocker_spaniel  0.005617
+86            pembroke  0.004511
+49    golden_retriever  0.004167,                  breed      prob
+29           chihuahua  0.934018
+60   italian_greyhound  0.034962
+7              basenji  0.021602
+45      french_bulldog  0.003085
+75  miniature_pinscher  0.001514,                breed      prob
+18            borzoi  0.166780
+1       afghan_hound  0.153912
+13  blenheim_spaniel  0.114283
+70             lhasa  0.103132
+33            collie  0.101727,                           breed      prob
+67           labrador_retriever  0.996087
+44        flat-coated_retriever  0.003137
+28     chesapeake_bay_retriever  0.000332
+47  german_short-haired_pointer  0.000268
+51                   great_dane  0.000056,                  breed      prob
+84            papillon  0.995122
+86            pembroke  0.001789
+87          pomeranian  0.001566
+99   shetland_sheepdog  0.000700
+119  yorkshire_terrier  0.000167,                 breed      prob
+33             collie  0.854125
+99  shetland_sheepdog  0.138300
+16      border_collie  0.005448
+54        groenendael  0.000436
+52     great_pyrenees  0.000313,                  breed      prob
+15            bluetick  0.524342
+117            whippet  0.237505
+8               basset  0.102586
+60   italian_greyhound  0.069232
+114         weimaraner  0.024182,                       breed      prob
+11     bernese_mountain_dog  0.891103
+32           cocker_spaniel  0.032608
+115  welsh_springer_spaniel  0.023182
+5               appenzeller  0.019952
+8                    basset  0.005144,               breed      prob
+30             chow  0.979494
+86         pembroke  0.005093
+88              pug  0.004033
+87       pomeranian  0.002578
+81  norwich_terrier  0.001856,                    breed      prob
+27              cardigan  0.860264
+111          toy_terrier  0.060104
+117              whippet  0.027990
+2    african_hunting_dog  0.015074
+29             chihuahua  0.008958,                          breed      prob
+5                  appenzeller  0.417929
+53  greater_swiss_mountain_dog  0.231332
+11        bernese_mountain_dog  0.214392
+19                 boston_bull  0.021507
+16               border_collie  0.017506,                       breed      prob
+11     bernese_mountain_dog  0.979896
+5               appenzeller  0.008732
+13         blenheim_spaniel  0.005471
+32           cocker_spaniel  0.002001
+115  welsh_springer_spaniel  0.000813,                 breed      prob
+9              beagle  0.605748
+113      walker_hound  0.283948
+39   english_foxhound  0.106589
+15           bluetick  0.001475
+89            redbone  0.000356,                               breed      prob
+117                         whippet  0.770560
+90              rhodesian_ridgeback  0.078858
+7                           basenji  0.058138
+60                italian_greyhound  0.034507
+4    american_staffordshire_terrier  0.033489,                   breed      prob
+29            chihuahua  0.996604
+111         toy_terrier  0.002581
+75   miniature_pinscher  0.000450
+7               basenji  0.000098
+74     mexican_hairless  0.000074,                               breed      prob
+4    american_staffordshire_terrier  0.962511
+117                         whippet  0.023596
+51                       great_dane  0.003704
+104       staffordshire_bullterrier  0.002714
+19                      boston_bull  0.001659,                 breed      prob
+33             collie  0.908727
+99  shetland_sheepdog  0.090266
+16      border_collie  0.000560
+18             borzoi  0.000079
+5         appenzeller  0.000076,                breed      prob
+108  tibetan_mastiff  0.974855
+71          malamute  0.007349
+109  tibetan_terrier  0.004310
+78      newfoundland  0.002809
+43        eskimo_dog  0.002567,                 breed      prob
+9              beagle  0.975408
+113      walker_hound  0.022480
+39   english_foxhound  0.001911
+15           bluetick  0.000097
+102     silky_terrier  0.000039,               breed      prob
+110      toy_poodle  0.217038
+87       pomeranian  0.137595
+70            lhasa  0.097089
+113    walker_hound  0.080060
+32   cocker_spaniel  0.055555,                    breed      prob
+11  bernese_mountain_dog  0.932907
+13      blenheim_spaniel  0.051057
+5            appenzeller  0.005395
+32        cocker_spaniel  0.004277
+50         gordon_setter  0.002450,                          breed      prob
+11        bernese_mountain_dog  0.979793
+53  greater_swiss_mountain_dog  0.012234
+5                  appenzeller  0.003670
+92               saint_bernard  0.001405
+8                       basset  0.000830,                   breed      prob
+60    italian_greyhound  0.951160
+29            chihuahua  0.027623
+9                beagle  0.005453
+117             whippet  0.004616
+67   labrador_retriever  0.002826,                         breed      prob
+112                    vizsla  0.356502
+28   chesapeake_bay_retriever  0.080097
+90        rhodesian_ridgeback  0.063254
+107            sussex_spaniel  0.029376
+56               irish_setter  0.024944,                       breed      prob
+29                chihuahua  0.239367
+32           cocker_spaniel  0.136202
+115  welsh_springer_spaniel  0.091053
+16            border_collie  0.082368
+27                 cardigan  0.074556,                         breed      prob
+28   chesapeake_bay_retriever  0.157148
+87                 pomeranian  0.140354
+49           golden_retriever  0.089289
+29                  chihuahua  0.086100
+112                    vizsla  0.045201,                       breed      prob
+41         english_springer  0.267027
+115  welsh_springer_spaniel  0.209243
+32           cocker_spaniel  0.159437
+68         lakeland_terrier  0.078157
+3                  airedale  0.051299,                 breed      prob
+45     french_bulldog  0.878313
+88                pug  0.088848
+19        boston_bull  0.023101
+25       bull_mastiff  0.004757
+22  brabancon_griffon  0.000907,                 breed      prob
+7             basenji  0.413326
+60  italian_greyhound  0.209948
+29          chihuahua  0.128770
+86           pembroke  0.073258
+27           cardigan  0.065800,                breed      prob
+45    french_bulldog  0.457440
+19       boston_bull  0.363206
+21             boxer  0.057186
+41  english_springer  0.026801
+27          cardigan  0.015182]
